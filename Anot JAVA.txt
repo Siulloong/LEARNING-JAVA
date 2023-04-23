@@ -1,0 +1,30 @@
+operador ternário
+
+Se (m1 > m2) então
+   maior <- m1
+senão
+   maior <- m2
+fimse
+
+maior = m1>m2 ? m1:m2;
+=======================================================
+Operadores relacionais
+
+>   maior
+<   menor
+>=  maior ou igual
+<=  menor ou igual
+==  igual a
+!=  diferente de 
+
+=======================================================
+operadores logicos
+
+&&     .e.
+||     .ou.
+^      .xou.  exclusivo   true ou true  
+!      .not. 
+
+
+
+
