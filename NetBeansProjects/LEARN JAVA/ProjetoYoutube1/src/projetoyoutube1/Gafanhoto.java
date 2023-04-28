@@ -1,17 +1,18 @@
-package projetoyoutube;
+package projetoyoutube1;
 
 public class Gafanhoto extends Pessoa {
-    private String login;
-    private int totAssistido;
+      private String login;
+      private int totAssistido;
 
-    public Gafanhoto(String nome, int idade, String sexo, String login ) {
+
+    //construtor  
+    public Gafanhoto(String nome, int idade, String sexo, String login) {
         super(nome, idade, sexo);
-        this.login = login;
-        this.totAssistido = 0;
+        this.login=login;
+        this.totAssistido=0;
     }
-    
-    
-    //Gettes e setters
+ 
+    //getters e setters
 
     public String getLogin() {
         return login;
@@ -28,10 +29,14 @@ public class Gafanhoto extends Pessoa {
     public void setTotAssistido(int totAssistido) {
         this.totAssistido = totAssistido;
     }
+    
+    //  to string
 
     @Override
     public String toString() {
-        return "Gafanhoto{" + "login=" + login + ", totAssistido=" + totAssistido + '}';
+        return "Gafanhoto{"+super.toString()+" login=" + login + ", totAssistido=" + totAssistido + '}';
     }
+    
+    
     
 }

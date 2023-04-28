@@ -1,21 +1,22 @@
-package projetoyoutube;
+package projetoyoutube1;
 
 public abstract class Pessoa {
     protected String nome;
     protected int idade;
     protected String sexo;
-    protected float experiencia;
+    protected float esperiencia;
+    
+    //construtor
 
-    //Construtor
     public Pessoa(String nome, int idade, String sexo) {
         this.nome = nome;
         this.idade = idade;
         this.sexo = sexo;
-        this.experiencia =0;
+        this.esperiencia = 0;
     }
     
-    
-    //gettes e setters
+    // gettes e setters
+
     public String getNome() {
         return nome;
     }
@@ -40,14 +41,12 @@ public abstract class Pessoa {
         this.sexo = sexo;
     }
 
-    public float getExperiencia() {
-        return experiencia;
+    public float Esperiencia() {
+        return esperiencia;
     }
 
-    public void setExperiencia(float experiencia) {
-        this.experiencia = experiencia;
+    public void setEsperiencia(float esperiencia) {
+        this.esperiencia = esperiencia;
     }
-    
-    
     
 }
