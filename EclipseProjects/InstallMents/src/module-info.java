@@ -5,5 +5,5 @@
  * @author Ederson
  *
  */
-module InstallMents {
+module Installments {
 }
