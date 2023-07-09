@@ -18,7 +18,7 @@ Operadores relacionais
 !=  diferente de 
 
 =======================================================
-operadores logicos
+operadores logicoss
 
 &&     .e.
 ||     .ou.

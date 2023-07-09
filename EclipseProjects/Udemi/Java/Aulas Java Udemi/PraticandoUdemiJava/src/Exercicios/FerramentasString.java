@@ -1,4 +1,4 @@
-package PraticandoUdemiJava;
+package Exercicios;
 
 public class FerramentasString {
 

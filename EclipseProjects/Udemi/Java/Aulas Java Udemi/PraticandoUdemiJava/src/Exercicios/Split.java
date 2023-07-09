@@ -1,4 +1,4 @@
-package PraticandoUdemiJava;
+package Exercicios;
 
 /*
  * separa o texto usando o caracter indicado no split(" ") - aqui no caso o espaço
