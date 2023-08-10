@@ -1,6 +1,8 @@
 package com.algaworks.banco.app;
 
 import com.algaworks.banco.modelo.Conta;
+import com.algaworks.banco.modelo.ContaEspecial;
+import com.algaworks.banco.modelo.ContaInvestimento;
 import com.algaworks.banco.modelo.Pessoa;
 
 public class Principal {
@@ -14,13 +16,14 @@ public class Principal {
         titular2.setNome("Maria da Cruz");
         titular2.setDocumento("456456465465");
 
-        Conta minhaConta = new Conta(titular1, 123, 987);
-        Conta suaConta = new Conta(titular2, 222, 333);
+        ContaInvestimento minhaConta = new ContaInvestimento(titular1, 123, 987);
+        ContaEspecial suaConta = new ContaEspecial(titular2, 222, 333, 1000);
 
-        suaConta.depositar(5_000);
-        minhaConta.depositar(25_000);
+        suaConta.depositar(15_000);
+        //minhaConta.depositar(25_000);
 
-        minhaConta.sacar(5_000, 10);
+        suaConta.sacar(15_500);
+//        minhaConta.creditarRendimentos(0.8);
 
         System.out.println("Titular: " + minhaConta.getTitular().getNome());
         System.out.println("Saldo: " + minhaConta.getSaldo());
