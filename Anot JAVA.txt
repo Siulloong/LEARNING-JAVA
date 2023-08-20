@@ -1,3 +1,5 @@
+ANOTAÇÕES INERENTE AO APRENDIZADO JAVA
+
 operador ternário
 
 Se (m1 > m2) então
