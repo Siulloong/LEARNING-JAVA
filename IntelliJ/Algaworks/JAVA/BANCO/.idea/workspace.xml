@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d13bc16e-ce03-4176-9271-1e607ed00a6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BANCO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/www/banco/app/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/www/banco/modelo/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/www/banco/modelo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/_- Copia.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc - Copia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules - Copia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner - Copia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs - Copia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace - Copia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banco - Copia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_- Copia.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banco/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/app/Principal - Copia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/app/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/Conta - Copia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/ContaEspecial - Copia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/ContaEspecial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/ContaInvestimento - Copia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/ContaInvestimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/Pessoa - Copia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algaworks/banco/modelo/Pessoa.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2UQoodbc7jnh7gd7Sj9jHCW7ABX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Ederson Araujo\OneDrive\Documentos\WWW SERVICES - APRENDIZADO\GROWUP_DEV\LEARNING-JAVA\IntelliJ\Algaworks\JAVA" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13bc16e-ce03-4176-9271-1e607ed00a6d" name="Changes" comment="" />
+      <created>1692881344436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692881344436</updated>
+      <workItem from="1692881344789" duration="10761000" />
+      <workItem from="1693003878568" duration="80000" />
+      <workItem from="1693174956767" duration="4092000" />
+      <workItem from="1693181872158" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
