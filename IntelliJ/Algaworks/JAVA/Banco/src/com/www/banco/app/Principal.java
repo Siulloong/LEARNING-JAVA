@@ -12,7 +12,7 @@ public class Principal {
 
         Pessoa titular2 = new Pessoa();
         titular2.setNome("Maria Jose");
-        titular2.setDocumento("8797897897897");
+        titular2.setDocumento("1571461461456");
 
         Conta minhaConta = new Conta(titular1, 222, 987);
         Conta suaConta = new Conta(titular2, 234, 678);
