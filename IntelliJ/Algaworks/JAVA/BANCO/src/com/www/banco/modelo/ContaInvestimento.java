@@ -6,9 +6,9 @@ public class ContaInvestimento extends Conta {
         super(titular, agencia,numero);
     }
 
-    public void creditarRendimentos(double percentual Juros) {
-        double valorRencimentos = getSaldo() * percentualJuros / 100;
-        depositar (valorRencimentos);
+    public void creditarRendimentos(double percentualJuros) {
+        double valorRendimentos = getSaldo() * percentualJuros / 100;
+        depositar(valorRendimentos);
     }
 
 }
