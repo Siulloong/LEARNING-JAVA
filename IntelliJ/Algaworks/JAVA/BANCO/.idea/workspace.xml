@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d13bc16e-ce03-4176-9271-1e607ed00a6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/www/banco/modelo/ContaEspecial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BANCO/com/www/banco/app/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BANCO/com/www/banco/app/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/www/banco/modelo/ContaInvestimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/www/banco/modelo/ContaInvestimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/www/banco/app/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/www/banco/app/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +61,11 @@
       <workItem from="1693271502609" duration="277000" />
       <workItem from="1693488094537" duration="6032000" />
       <workItem from="1693852269039" duration="707000" />
+      <workItem from="1694634232783" duration="6052000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/www/banco/app/Principal.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
